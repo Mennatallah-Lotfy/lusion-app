@@ -1,0 +1,30 @@
+body{
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    /* box-sizing: border-box; */
+    /* background-color:rgba(225, 182,193, .25); */
+    background-color: linen;
+}
+.link:hover{
+cursor: pointer;
+}
+.shopping-bg{
+    /* background-color:rgba(225, 182,193, .25); */
+    background-color:linen;
+    min-height: 100vh;
+}
+.Link{
+    text-decoration: none;
+    color:darkgreen;
+    /* color:rgb(53, 27, 53); */
+}
+.Link:hover{
+    text-decoration: none;
+    color:darkblue;
+}
+
+.siz{
+    font-size: 60px;
+}
